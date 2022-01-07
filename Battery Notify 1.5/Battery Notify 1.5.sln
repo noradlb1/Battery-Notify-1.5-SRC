@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Battery Notify 1.5", "Battery Notify 1.5.vbproj", "{5F759052-6849-41D5-9DF3-404D4B984608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F759052-6849-41D5-9DF3-404D4B984608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F759052-6849-41D5-9DF3-404D4B984608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F759052-6849-41D5-9DF3-404D4B984608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F759052-6849-41D5-9DF3-404D4B984608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
